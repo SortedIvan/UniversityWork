@@ -1,0 +1,15 @@
+C:\Users\ivano\OneDrive\Desktop\FONTYS\Application development\TikTokThing\TikTokThing\bin\Debug\netcoreapp3.1\TikTokThing.exe
+C:\Users\ivano\OneDrive\Desktop\FONTYS\Application development\TikTokThing\TikTokThing\bin\Debug\netcoreapp3.1\TikTokThing.deps.json
+C:\Users\ivano\OneDrive\Desktop\FONTYS\Application development\TikTokThing\TikTokThing\bin\Debug\netcoreapp3.1\TikTokThing.runtimeconfig.json
+C:\Users\ivano\OneDrive\Desktop\FONTYS\Application development\TikTokThing\TikTokThing\bin\Debug\netcoreapp3.1\TikTokThing.runtimeconfig.dev.json
+C:\Users\ivano\OneDrive\Desktop\FONTYS\Application development\TikTokThing\TikTokThing\bin\Debug\netcoreapp3.1\TikTokThing.dll
+C:\Users\ivano\OneDrive\Desktop\FONTYS\Application development\TikTokThing\TikTokThing\bin\Debug\netcoreapp3.1\TikTokThing.pdb
+C:\Users\ivano\OneDrive\Desktop\FONTYS\Application development\TikTokThing\TikTokThing\obj\Debug\netcoreapp3.1\TikTokThing.csprojAssemblyReference.cache
+C:\Users\ivano\OneDrive\Desktop\FONTYS\Application development\TikTokThing\TikTokThing\obj\Debug\netcoreapp3.1\TikTokThing.csproj.GenerateResource.cache
+C:\Users\ivano\OneDrive\Desktop\FONTYS\Application development\TikTokThing\TikTokThing\obj\Debug\netcoreapp3.1\TikTokThing.AssemblyInfoInputs.cache
+C:\Users\ivano\OneDrive\Desktop\FONTYS\Application development\TikTokThing\TikTokThing\obj\Debug\netcoreapp3.1\TikTokThing.AssemblyInfo.cs
+C:\Users\ivano\OneDrive\Desktop\FONTYS\Application development\TikTokThing\TikTokThing\obj\Debug\netcoreapp3.1\TikTokThing.csproj.CoreCompileInputs.cache
+C:\Users\ivano\OneDrive\Desktop\FONTYS\Application development\TikTokThing\TikTokThing\obj\Debug\netcoreapp3.1\TikTokThing.dll
+C:\Users\ivano\OneDrive\Desktop\FONTYS\Application development\TikTokThing\TikTokThing\obj\Debug\netcoreapp3.1\TikTokThing.pdb
+C:\Users\ivano\OneDrive\Desktop\FONTYS\Application development\TikTokThing\TikTokThing\obj\Debug\netcoreapp3.1\TikTokThing.genruntimeconfig.cache
+C:\Users\ivano\OneDrive\Desktop\FONTYS\Application development\TikTokThing\TikTokThing\obj\Debug\netcoreapp3.1\TikTokThing.TikTok.resources

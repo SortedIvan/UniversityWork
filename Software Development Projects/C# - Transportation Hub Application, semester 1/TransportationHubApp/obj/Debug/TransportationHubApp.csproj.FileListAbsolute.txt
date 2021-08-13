@@ -1,0 +1,20 @@
+C:\Users\ivano\OneDrive\Desktop\Personal assignment\TransportationHubApp\TransportationHubApp\obj\Debug\TransportationHubApp.csprojAssemblyReference.cache
+C:\Users\ivano\OneDrive\Desktop\Personal assignment\TransportationHubApp\TransportationHubApp\obj\Debug\TransportationHubApp.TransportationHub.resources
+C:\Users\ivano\OneDrive\Desktop\Personal assignment\TransportationHubApp\TransportationHubApp\obj\Debug\TransportationHubApp.Properties.Resources.resources
+C:\Users\ivano\OneDrive\Desktop\Personal assignment\TransportationHubApp\TransportationHubApp\obj\Debug\TransportationHubApp.csproj.GenerateResource.cache
+C:\Users\ivano\OneDrive\Desktop\Personal assignment\TransportationHubApp\TransportationHubApp\obj\Debug\TransportationHubApp.csproj.CoreCompileInputs.cache
+C:\Users\ivano\OneDrive\Desktop\Personal assignment\TransportationHubApp\TransportationHubApp\bin\Debug\TransportationHubApp.exe.config
+C:\Users\ivano\OneDrive\Desktop\Personal assignment\TransportationHubApp\TransportationHubApp\bin\Debug\TransportationHubApp.exe
+C:\Users\ivano\OneDrive\Desktop\Personal assignment\TransportationHubApp\TransportationHubApp\bin\Debug\TransportationHubApp.pdb
+C:\Users\ivano\OneDrive\Desktop\Personal assignment\TransportationHubApp\TransportationHubApp\obj\Debug\TransportationHubApp.exe
+C:\Users\ivano\OneDrive\Desktop\Personal assignment\TransportationHubApp\TransportationHubApp\obj\Debug\TransportationHubApp.pdb
+C:\Users\ivano\OneDrive\Desktop\Personal Assignment\Personal assignment\TransportationHubApp\TransportationHubApp\bin\Debug\TransportationHubApp.exe.config
+C:\Users\ivano\OneDrive\Desktop\Personal Assignment\Personal assignment\TransportationHubApp\TransportationHubApp\bin\Debug\TransportationHubApp.exe
+C:\Users\ivano\OneDrive\Desktop\Personal Assignment\Personal assignment\TransportationHubApp\TransportationHubApp\bin\Debug\TransportationHubApp.pdb
+C:\Users\ivano\OneDrive\Desktop\Personal Assignment\Personal assignment\TransportationHubApp\TransportationHubApp\obj\Debug\TransportationHubApp.csprojAssemblyReference.cache
+C:\Users\ivano\OneDrive\Desktop\Personal Assignment\Personal assignment\TransportationHubApp\TransportationHubApp\obj\Debug\TransportationHubApp.TransportationHub.resources
+C:\Users\ivano\OneDrive\Desktop\Personal Assignment\Personal assignment\TransportationHubApp\TransportationHubApp\obj\Debug\TransportationHubApp.Properties.Resources.resources
+C:\Users\ivano\OneDrive\Desktop\Personal Assignment\Personal assignment\TransportationHubApp\TransportationHubApp\obj\Debug\TransportationHubApp.csproj.GenerateResource.cache
+C:\Users\ivano\OneDrive\Desktop\Personal Assignment\Personal assignment\TransportationHubApp\TransportationHubApp\obj\Debug\TransportationHubApp.csproj.CoreCompileInputs.cache
+C:\Users\ivano\OneDrive\Desktop\Personal Assignment\Personal assignment\TransportationHubApp\TransportationHubApp\obj\Debug\TransportationHubApp.exe
+C:\Users\ivano\OneDrive\Desktop\Personal Assignment\Personal assignment\TransportationHubApp\TransportationHubApp\obj\Debug\TransportationHubApp.pdb

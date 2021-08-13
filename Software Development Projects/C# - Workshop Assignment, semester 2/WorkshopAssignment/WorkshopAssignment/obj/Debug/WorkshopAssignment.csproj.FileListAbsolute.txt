@@ -1,0 +1,11 @@
+C:\Users\ivano\OneDrive\Desktop\2nd Individual Assignemtn\WorkshopAssignment\WorkshopAssignment\bin\Debug\WorkshopAssignment.exe.config
+C:\Users\ivano\OneDrive\Desktop\2nd Individual Assignemtn\WorkshopAssignment\WorkshopAssignment\bin\Debug\WorkshopAssignment.exe
+C:\Users\ivano\OneDrive\Desktop\2nd Individual Assignemtn\WorkshopAssignment\WorkshopAssignment\bin\Debug\WorkshopAssignment.pdb
+C:\Users\ivano\OneDrive\Desktop\2nd Individual Assignemtn\WorkshopAssignment\WorkshopAssignment\obj\Debug\WorkshopAssignment.csprojAssemblyReference.cache
+C:\Users\ivano\OneDrive\Desktop\2nd Individual Assignemtn\WorkshopAssignment\WorkshopAssignment\obj\Debug\WorkshopAssignment.Form1.resources
+C:\Users\ivano\OneDrive\Desktop\2nd Individual Assignemtn\WorkshopAssignment\WorkshopAssignment\obj\Debug\WorkshopAssignment.Properties.Resources.resources
+C:\Users\ivano\OneDrive\Desktop\2nd Individual Assignemtn\WorkshopAssignment\WorkshopAssignment\obj\Debug\WorkshopAssignment.csproj.GenerateResource.cache
+C:\Users\ivano\OneDrive\Desktop\2nd Individual Assignemtn\WorkshopAssignment\WorkshopAssignment\obj\Debug\WorkshopAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ivano\OneDrive\Desktop\2nd Individual Assignemtn\WorkshopAssignment\WorkshopAssignment\obj\Debug\WorkshopAssignment.exe
+C:\Users\ivano\OneDrive\Desktop\2nd Individual Assignemtn\WorkshopAssignment\WorkshopAssignment\obj\Debug\WorkshopAssignment.pdb
+C:\Users\ivano\OneDrive\Desktop\2nd Individual Assignemtn\WorkshopAssignment\WorkshopAssignment\obj\Debug\WorkshopAssignment.AvailableWorkshops.resources

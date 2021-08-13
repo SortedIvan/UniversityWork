@@ -1,0 +1,20 @@
+C:\Users\ivano\OneDrive\Desktop\ADO assignemnet\MusicPlaylistApp\MusicPlaylistApp\bin\Debug\MusicPlaylistApp.exe.config
+C:\Users\ivano\OneDrive\Desktop\ADO assignemnet\MusicPlaylistApp\MusicPlaylistApp\bin\Debug\MusicPlaylistApp.exe
+C:\Users\ivano\OneDrive\Desktop\ADO assignemnet\MusicPlaylistApp\MusicPlaylistApp\bin\Debug\MusicPlaylistApp.pdb
+C:\Users\ivano\OneDrive\Desktop\ADO assignemnet\MusicPlaylistApp\MusicPlaylistApp\obj\Debug\MusicPlaylistApp.csprojAssemblyReference.cache
+C:\Users\ivano\OneDrive\Desktop\ADO assignemnet\MusicPlaylistApp\MusicPlaylistApp\obj\Debug\MusicPlaylistApp.Form1.resources
+C:\Users\ivano\OneDrive\Desktop\ADO assignemnet\MusicPlaylistApp\MusicPlaylistApp\obj\Debug\MusicPlaylistApp.Properties.Resources.resources
+C:\Users\ivano\OneDrive\Desktop\ADO assignemnet\MusicPlaylistApp\MusicPlaylistApp\obj\Debug\MusicPlaylistApp.csproj.GenerateResource.cache
+C:\Users\ivano\OneDrive\Desktop\ADO assignemnet\MusicPlaylistApp\MusicPlaylistApp\obj\Debug\MusicPlaylistApp.csproj.CoreCompileInputs.cache
+C:\Users\ivano\OneDrive\Desktop\ADO assignemnet\MusicPlaylistApp\MusicPlaylistApp\obj\Debug\MusicPlaylistApp.exe
+C:\Users\ivano\OneDrive\Desktop\ADO assignemnet\MusicPlaylistApp\MusicPlaylistApp\obj\Debug\MusicPlaylistApp.pdb
+C:\Users\ivano\OneDrive\Desktop\MusicPlaylistApp\MusicPlaylistApp\bin\Debug\MusicPlaylistApp.exe.config
+C:\Users\ivano\OneDrive\Desktop\MusicPlaylistApp\MusicPlaylistApp\bin\Debug\MusicPlaylistApp.exe
+C:\Users\ivano\OneDrive\Desktop\MusicPlaylistApp\MusicPlaylistApp\bin\Debug\MusicPlaylistApp.pdb
+C:\Users\ivano\OneDrive\Desktop\MusicPlaylistApp\MusicPlaylistApp\obj\Debug\MusicPlaylistApp.csprojAssemblyReference.cache
+C:\Users\ivano\OneDrive\Desktop\MusicPlaylistApp\MusicPlaylistApp\obj\Debug\MusicPlaylistApp.Form1.resources
+C:\Users\ivano\OneDrive\Desktop\MusicPlaylistApp\MusicPlaylistApp\obj\Debug\MusicPlaylistApp.Properties.Resources.resources
+C:\Users\ivano\OneDrive\Desktop\MusicPlaylistApp\MusicPlaylistApp\obj\Debug\MusicPlaylistApp.csproj.GenerateResource.cache
+C:\Users\ivano\OneDrive\Desktop\MusicPlaylistApp\MusicPlaylistApp\obj\Debug\MusicPlaylistApp.csproj.CoreCompileInputs.cache
+C:\Users\ivano\OneDrive\Desktop\MusicPlaylistApp\MusicPlaylistApp\obj\Debug\MusicPlaylistApp.exe
+C:\Users\ivano\OneDrive\Desktop\MusicPlaylistApp\MusicPlaylistApp\obj\Debug\MusicPlaylistApp.pdb
